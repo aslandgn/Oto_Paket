@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Oto Paket</string>
+    <string name="action_settings">Ayarlar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="start_fragment_label">Anasayfa</string>
+    <string name="brands_fragment_label">Markalar</string>
+    <string name="models_fragment_label">Modeller</string>
+    <string name="versions_fragment_label">Versiyonlar</string>
+    <string name="next">İleri</string>
+    <string name="previous">Geri</string>
+    <string name="error_message">Bir hata oluştu</string>
+    <string name="markalari_getir">Markaları Getir</string>
+</resources>
